@@ -1,0 +1,57 @@
+# =============== #
+# Unity .gitignore #
+# =============== #
+
+# Carpetas generadas automáticamente por Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Cache de paquetes
+/[Pp]ackages/com.unity.package-manager/
+
+# Archivos de compilación
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.xcodeproj
+*.xcworkspace
+*.xcuserstate
+*.xcsettings
+*.xcscheme
+*.ipa
+
+# Archivos de usuario y temporales
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# VSCode, Rider y otros IDEs
+.vscode/
+.idea/
+*.DotSettings
+
+# Reportes de crash
+sysinfo.txt
+*.stacktrace
+
+# Archivos de cache de builds y perfiles
+*.mdb
+*.opendb
+*.VC.db
+
+# Carpetas locales de Unity Collaborate y Plastic SCM
+/[Uu]serSettings/
