@@ -47,6 +47,105 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\commontypes.ko.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\workspaceserver.zh-Hant.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\cm-help.en.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\differences.ja.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\common.es.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\configurehelper.ja.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\basecommands.es.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\plastic-gui.es.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\guihelp.es.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\clientcommon.ko.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\clientcommon.es.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\guihelp.zh-Hant.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\workspaceserver.ko.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\i3.ja.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\basecommands.en.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\guihelp.ko.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\mergetool.en.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\clientcommon.ja.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\images.ja.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\differences.es.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\cm.zh-Hans.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\images.zh-Hans.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\cm.zh-Hant.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\mergetool.ko.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\mergetool.ja.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\cm-help.ja.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\plastic-gui.en.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\configurehelper.zh-Hans.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\mergetool.es.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\basecommands.ko.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\i3.en.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\commontypes.ja.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\cm.ko.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\i3.zh-Hant.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\cm-help.zh-Hans.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\semantic.es.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\commontypes.es.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\binmergetool.es.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\binmergetool.zh-Hans.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\workspaceserver.en.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\binmergetool.zh-Hant.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\workspaceserver.zh-Hans.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\cm.en.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\mergetool.zh-Hans.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\binmergetool.ja.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\xdiff.ko.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\semantic.zh-Hant.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\commontypes.zh-Hans.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\xdiff.zh-Hant.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\commontypes.en.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\plastic-gui.zh-Hans.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\guihelp.zh-Hans.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\cm.ja.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\configurehelper.es.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\differences.zh-Hans.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\differences.en.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\images.zh-Hant.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\semantic.ko.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\images.en.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\binmergetool.ko.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\xdiff.ja.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\configurehelper.en.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\i3.zh-Hans.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\cm.es.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\FileSystemWatcherLicense.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\configurehelper.zh-Hant.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\xdiff.es.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\plastic-gui.ko.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\basecommands.ja.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\mergetool.zh-Hant.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\semantic.en.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\xdiff.en.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\common.en.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\semantic.zh-Hans.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\differences.zh-Hant.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\basecommands.zh-Hant.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\differences.ko.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\guihelp.ja.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\plastic-gui.zh-Hant.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\clientcommon.zh-Hans.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\i3.es.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\images.ko.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\cm-help.zh-Hant.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\commontypes.zh-Hant.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\plastic-gui.ja.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\guihelp.en.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\clientcommon.zh-Hant.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\workspaceserver.ja.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\cm-help.ko.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\basecommands.zh-Hans.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\images.es.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\i3.ko.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\cm-help.es.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\semantic.ja.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\configurehelper.ko.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\binmergetool.en.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\clientcommon.en.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\workspaceserver.es.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Localization\xdiff.zh-Hans.txt" />
     <Reference Include="UnityEngine">
       <HintPath>C:\Users\patbi\OneDrive\Escritorio\6000.2.3f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
@@ -426,43 +525,43 @@
       <HintPath>C:\Users\patbi\OneDrive\Escritorio\6000.2.3f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.YamlDotNet">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\PackageCache\com.unity.visualscripting@6279e2b7c485\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
+      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\IA1_2025C_UCQ\AI\IA 2025 C\Library\PackageCache\com.unity.visualscripting@6279e2b7c485\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Collections.LowLevel.ILSupport">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\PackageCache\com.unity.collections@d49facba0036\Unity.Collections.LowLevel.ILSupport\Unity.Collections.LowLevel.ILSupport.dll</HintPath>
+      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\IA1_2025C_UCQ\AI\IA 2025 C\Library\PackageCache\com.unity.collections@d49facba0036\Unity.Collections.LowLevel.ILSupport\Unity.Collections.LowLevel.ILSupport.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\PackageCache\com.unity.ext.nunit@031a54704bff\net40\unity-custom\nunit.framework.dll</HintPath>
+      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\IA1_2025C_UCQ\AI\IA 2025 C\Library\PackageCache\com.unity.ext.nunit@031a54704bff\net40\unity-custom\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Antlr3.Runtime">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\IA1_2025C_UCQ\AI\IA 2025 C\Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\IA1_2025C_UCQ\AI\IA 2025 C\Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="log4netPlastic">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\log4netPlastic.dll</HintPath>
+      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\IA1_2025C_UCQ\AI\IA 2025 C\Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\log4netPlastic.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.IonicZip">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\PackageCache\com.unity.visualscripting@6279e2b7c485\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
+      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\IA1_2025C_UCQ\AI\IA 2025 C\Library\PackageCache\com.unity.visualscripting@6279e2b7c485\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
     </Reference>
     <Reference Include="unityplastic">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\unityplastic.dll</HintPath>
+      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\IA1_2025C_UCQ\AI\IA 2025 C\Library\PackageCache\com.unity.collab-proxy@ab839cc7d2ad\Lib\Editor\unityplastic.dll</HintPath>
     </Reference>
     <Reference Include="System.IO.Hashing">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\PackageCache\com.unity.collections@d49facba0036\Unity.Collections.Tests\System.IO.Hashing\System.IO.Hashing.dll</HintPath>
+      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\IA1_2025C_UCQ\AI\IA 2025 C\Library\PackageCache\com.unity.collections@d49facba0036\Unity.Collections.Tests\System.IO.Hashing\System.IO.Hashing.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\PackageCache\com.unity.visualscripting@6279e2b7c485\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\IA1_2025C_UCQ\AI\IA 2025 C\Library\PackageCache\com.unity.visualscripting@6279e2b7c485\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.TextureAssets">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\PackageCache\com.unity.visualscripting@6279e2b7c485\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
+      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\IA1_2025C_UCQ\AI\IA 2025 C\Library\PackageCache\com.unity.visualscripting@6279e2b7c485\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Cecil">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\PackageCache\com.unity.nuget.mono-cecil@d78732e851eb\Mono.Cecil.dll</HintPath>
+      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\IA1_2025C_UCQ\AI\IA 2025 C\Library\PackageCache\com.unity.nuget.mono-cecil@d78732e851eb\Mono.Cecil.dll</HintPath>
     </Reference>
     <Reference Include="System.Runtime.CompilerServices.Unsafe">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\PackageCache\com.unity.collections@d49facba0036\Unity.Collections.Tests\System.Runtime.CompilerServices.Unsafe\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\IA1_2025C_UCQ\AI\IA 2025 C\Library\PackageCache\com.unity.collections@d49facba0036\Unity.Collections.Tests\System.Runtime.CompilerServices.Unsafe\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:\Users\patbi\OneDrive\Escritorio\6000.2.3f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\mscorlib.dll</HintPath>
@@ -839,164 +938,223 @@
     <Reference Include="System.Xml.XPath.XDocument">
       <HintPath>C:\Users\patbi\OneDrive\Escritorio\6000.2.3f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Xml.XPath.XDocument.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEditor.TestRunner">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\UnityEditor.TestRunner.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.TestRunner">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\UnityEngine.TestRunner.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Core.Editor">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.AI.Navigation">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.AI.Navigation.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Universal.Editor">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.AI.Navigation.Updater">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.AI.Navigation.Updater.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Timeline">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.AI.Navigation.Editor">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.AI.Navigation.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="PPv2URPConverters">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\PPv2URPConverters.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Core.Runtime.Shared">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.Shared.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Universal.2D.Runtime">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.2D.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.Shared.Editor">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Searcher.Editor">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.Searcher.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.PlasticSCM.Editor">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Burst.Editor">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.Burst.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.Core">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Mathematics.Editor">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Rendering.LightTransport.Editor">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.Rendering.LightTransport.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Rider.Editor">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.AI.Navigation.Editor.ConversionSystem">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.AI.Navigation.Editor.ConversionSystem.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Core.Runtime">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.Flow">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.Flow.Editor">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VisualStudio.Editor">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Collections">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.Collections.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.InputSystem.ForUI">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.InputSystem.ForUI.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.GPUDriven.Runtime">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.RenderPipelines.GPUDriven.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.State.Editor">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Mathematics">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.Mathematics.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Universal.Shaders">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.UI">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Multiplayer.Center.Common">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.Multiplayer.Center.Common.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Burst">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.Burst.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.Core.Editor">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Multiplayer.Center.Editor">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.Multiplayer.Center.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Universal.Runtime">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Rendering.LightTransport.Runtime">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.Rendering.LightTransport.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.State">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Universal.Config.Runtime">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Config.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Collections.Editor">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.Collections.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.ShaderGraph.Editor">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Core.Editor.Shared">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.Shared.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.InputSystem">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\Unity.InputSystem.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.UI">
-      <HintPath>C:\Users\patbi\OneDrive\Escritorio\universidad\CUATRI VII\AI\ia\AI\IA 2025 C\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
       <Project>{b503daad-949a-05ef-0809-e3812dba36e4}</Project>
       <Name>Assembly-CSharp</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEditor.TestRunner.csproj">
+      <Project>{08df7738-9f01-6227-c477-d462b4734d71}</Project>
+      <Name>UnityEditor.TestRunner</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEngine.TestRunner.csproj">
+      <Project>{2cd0d2fe-5ea8-f680-e9c7-8af54509843e}</Project>
+      <Name>UnityEngine.TestRunner</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Core.Editor.csproj">
+      <Project>{21d88f46-80b3-b418-207e-1cfa7fefc5b8}</Project>
+      <Name>Unity.RenderPipelines.Core.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.2D.Sprite.Editor.csproj">
+      <Project>{daa85fcb-a77f-4f62-50cf-471b7a3a2860}</Project>
+      <Name>Unity.2D.Sprite.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.TextMeshPro.csproj">
+      <Project>{d3b3cfb4-2301-580f-6f5d-336e326d4e63}</Project>
+      <Name>Unity.TextMeshPro</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.AI.Navigation.csproj">
+      <Project>{ee3455fb-a0cb-84bc-8f77-c77c6d4cab83}</Project>
+      <Name>Unity.AI.Navigation</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Core.ShaderLibrary.csproj">
+      <Project>{cbf0a56c-4907-7919-9ce6-1ba33df852f2}</Project>
+      <Name>Unity.RenderPipelines.Core.ShaderLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.SettingsProvider.Editor.csproj">
+      <Project>{57e7bf0b-4c2a-3b4c-572b-631f65112f68}</Project>
+      <Name>Unity.VisualScripting.SettingsProvider.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Universal.Editor.csproj">
+      <Project>{f4341500-1ef3-a0f4-3ba7-194b71d5c317}</Project>
+      <Name>Unity.RenderPipelines.Universal.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.AI.Navigation.Updater.csproj">
+      <Project>{8648526a-53a6-3f70-784d-062339a82ec6}</Project>
+      <Name>Unity.AI.Navigation.Updater</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Timeline.csproj">
+      <Project>{62b58a99-7a3f-ca25-93b1-ec6a61ee693a}</Project>
+      <Name>Unity.Timeline</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.AI.Navigation.Editor.csproj">
+      <Project>{6fe7b50e-9157-098d-2c6e-a997b9c7ac89}</Project>
+      <Name>Unity.AI.Navigation.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="PPv2URPConverters.csproj">
+      <Project>{d55d9475-0e01-cfd4-a6f3-82249d6244a2}</Project>
+      <Name>PPv2URPConverters</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Core.Runtime.Shared.csproj">
+      <Project>{c58ccb97-5b72-22c1-a8e3-b260a955c373}</Project>
+      <Name>Unity.RenderPipelines.Core.Runtime.Shared</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Universal.2D.Runtime.csproj">
+      <Project>{8055b133-cd6a-5abb-21f6-d20f7fe12a3c}</Project>
+      <Name>Unity.RenderPipelines.Universal.2D.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.Shared.Editor.csproj">
+      <Project>{5870e8cf-1d78-d596-8731-8a1cde46b09a}</Project>
+      <Name>Unity.VisualScripting.Shared.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Searcher.Editor.csproj">
+      <Project>{0e0ab836-5d1f-e06a-ed2e-a702b8ed4872}</Project>
+      <Name>Unity.Searcher.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.PlasticSCM.Editor.csproj">
+      <Project>{92d3e8a7-86b2-7cc0-4614-325ef7ea04a6}</Project>
+      <Name>Unity.PlasticSCM.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Burst.Editor.csproj">
+      <Project>{9df9169b-5909-c97a-24c6-61cae01d050e}</Project>
+      <Name>Unity.Burst.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.Core.csproj">
+      <Project>{3ee2f4ed-9a42-d8f6-a588-1f006aa12e85}</Project>
+      <Name>Unity.VisualScripting.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Mathematics.Editor.csproj">
+      <Project>{c882fd51-0b20-7236-f8f5-d9dbd5795316}</Project>
+      <Name>Unity.Mathematics.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Rendering.LightTransport.Editor.csproj">
+      <Project>{7b65798b-f963-6bf4-e706-913b241586ae}</Project>
+      <Name>Unity.Rendering.LightTransport.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Rider.Editor.csproj">
+      <Project>{59309dda-0624-6489-2785-8d42d8860299}</Project>
+      <Name>Unity.Rider.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.AI.Navigation.Editor.ConversionSystem.csproj">
+      <Project>{5a75e0e8-e32f-49d7-d54c-b2ddc424d2d5}</Project>
+      <Name>Unity.AI.Navigation.Editor.ConversionSystem</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.csproj">
+      <Project>{218b1323-800d-6341-d99d-8ccd99a2b35d}</Project>
+      <Name>Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Core.Runtime.csproj">
+      <Project>{1f5caef2-5e63-1aaa-10a2-b53ea57a2496}</Project>
+      <Name>Unity.RenderPipelines.Core.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.Flow.csproj">
+      <Project>{072344ee-c6ac-e253-c001-9b8415693ab1}</Project>
+      <Name>Unity.VisualScripting.Flow</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.TextMeshPro.Editor.csproj">
+      <Project>{9dd04e83-825a-f1f0-73ea-e7abf54d853f}</Project>
+      <Name>Unity.TextMeshPro.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.Flow.Editor.csproj">
+      <Project>{27ed2d1a-0b0a-1378-d3a6-0254f11b87c6}</Project>
+      <Name>Unity.VisualScripting.Flow.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualStudio.Editor.csproj">
+      <Project>{8c0be9a3-8244-a6e8-10bc-7b13daa29040}</Project>
+      <Name>Unity.VisualStudio.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Collections.csproj">
+      <Project>{038f431b-549f-5530-8cd7-694c8ed8cf10}</Project>
+      <Name>Unity.Collections</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.InputSystem.ForUI.csproj">
+      <Project>{0a5f140a-df51-1dc2-df7e-48ffcaa8cb6a}</Project>
+      <Name>Unity.InputSystem.ForUI</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.GPUDriven.Runtime.csproj">
+      <Project>{73e67ff9-c4d4-06f4-5fe9-744a62f7bd60}</Project>
+      <Name>Unity.RenderPipelines.GPUDriven.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Timeline.Editor.csproj">
+      <Project>{cb336c16-22c2-4bc2-8148-ff34ea7f4dcd}</Project>
+      <Name>Unity.Timeline.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.State.Editor.csproj">
+      <Project>{b2ad5f5b-8858-3f03-0321-9b4fe3eae4e5}</Project>
+      <Name>Unity.VisualScripting.State.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Mathematics.csproj">
+      <Project>{f45cf1cf-6569-c496-1ec1-024054497810}</Project>
+      <Name>Unity.Mathematics</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Universal.Shaders.csproj">
+      <Project>{43f58cb1-fb65-27d1-143a-910d08701114}</Project>
+      <Name>Unity.RenderPipelines.Universal.Shaders</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEngine.UI.csproj">
+      <Project>{8ba98481-5223-a1d4-3733-d81b2ed90aeb}</Project>
+      <Name>UnityEngine.UI</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Multiplayer.Center.Common.csproj">
+      <Project>{c613ae35-be6d-a9c5-593f-ebdb90aa6a0b}</Project>
+      <Name>Unity.Multiplayer.Center.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Burst.csproj">
+      <Project>{cf931748-6a75-25c3-0a12-7a017632659b}</Project>
+      <Name>Unity.Burst</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.Core.Editor.csproj">
+      <Project>{a0d7f664-1473-ce8d-e2ec-78e7e6eea4de}</Project>
+      <Name>Unity.VisualScripting.Core.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Multiplayer.Center.Editor.csproj">
+      <Project>{1497aa55-d15f-c959-8728-e2b493c0c085}</Project>
+      <Name>Unity.Multiplayer.Center.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Universal.Runtime.csproj">
+      <Project>{c3df22be-dfce-2c0e-2376-2e7b7421a4aa}</Project>
+      <Name>Unity.RenderPipelines.Universal.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Rendering.LightTransport.Runtime.csproj">
+      <Project>{380fd9f1-8172-71ee-4a5e-fbc1cda9b747}</Project>
+      <Name>Unity.Rendering.LightTransport.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.State.csproj">
+      <Project>{8bf03ca7-a185-9d02-4958-12a15af4c7a0}</Project>
+      <Name>Unity.VisualScripting.State</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Universal.Config.Runtime.csproj">
+      <Project>{76e26ee5-8fb3-43f6-ee6e-c88b2e6c48e5}</Project>
+      <Name>Unity.RenderPipelines.Universal.Config.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipeline.Universal.ShaderLibrary.csproj">
+      <Project>{28fed075-97a7-6096-b17c-c9d50bb4e669}</Project>
+      <Name>Unity.RenderPipeline.Universal.ShaderLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Collections.Editor.csproj">
+      <Project>{f499ea11-1774-7660-49de-d3108a7accd0}</Project>
+      <Name>Unity.Collections.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.ShaderGraph.Editor.csproj">
+      <Project>{5854e04e-ab13-365e-6ff1-64662f1805d9}</Project>
+      <Name>Unity.ShaderGraph.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Core.Editor.Shared.csproj">
+      <Project>{2419589b-73de-2e57-57de-3ef66bd65d0d}</Project>
+      <Name>Unity.RenderPipelines.Core.Editor.Shared</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.2D.Sprite.AIIntegration.Editor.csproj">
+      <Project>{f4c12178-e8c5-0fed-fc7b-4ceaa4b3441b}</Project>
+      <Name>Unity.2D.Sprite.AIIntegration.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.InputSystem.csproj">
+      <Project>{6a469577-8cc7-f4ef-f7ce-d2cf7a915819}</Project>
+      <Name>Unity.InputSystem</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEditor.UI.csproj">
+      <Project>{0d23f335-4e41-755d-f5fd-d1e08fee5c9f}</Project>
+      <Name>UnityEditor.UI</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
