@@ -17,8 +17,12 @@ public class Agent : MonoBehaviour
     private RigidBodySteeringBehaviours _steeringBehaviors;
     
     // si detectaste a algún gameObject que tenga la tag de player, persíguelo.
-    
-    
+
+    public int MaxHP;
+    public int CurrentHP;
+    public int HPToFlee;
+
+    public float RadiustoStopMovingDuringFlee = 10.0f;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -74,10 +78,33 @@ public class Agent : MonoBehaviour
             }
         }
         
+        
         // cuando termine el foreach, ya vamos a tener al player más cercano a este agente.
         // EXCEPTO si no hay ningún player.
         if (nearestPlayer)
         {
+            
+            //si tiene poca vida, que cambie a flee
+            if (CurrentHP < HPToFlee)
+            {
+                if (Utilities.IsObjectInRange(transform.position, nearestPlayer.transform.position, RadiustoStopMovingDuringFlee))
+                {
+                    //si estoy dentro del rango, escapo
+                    _steeringBehaviors.currentBehaviour = ESteeringBehaviours.Flee;
+                }
+                else
+                {
+                    //ya estamos suficientemente lejos, que se quede quieto
+                    _steeringBehaviors.currentBehaviour = ESteeringBehaviours.DontMove;
+                }
+                //también podría ser que vaya a curarse
+            }
+            else
+            {
+                //si tiene suficiente vida, que haga pursuit
+                _steeringBehaviors.currentBehaviour = ESteeringBehaviours.Arrive;
+            }
+            
             Rigidbody targetRb = nearestPlayer.GetComponent<Rigidbody>();
             // Entonces sí encontramos al player má cercano. Aquí ya podemos reaccionar a eso.
             _steeringBehaviors.SetTarget(nearestPlayer.transform.position, targetRb);

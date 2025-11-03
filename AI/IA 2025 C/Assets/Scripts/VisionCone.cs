@@ -44,7 +44,7 @@ public class VisionCone : MonoBehaviour
     {
         
         //7 calculamos la direccion pero normalizada
-        Vector3 puntaMenosCola = Senses.PuntaMenosCola(target.transform.position, transform.position);
+        Vector3 puntaMenosCola = Utilities.PuntaMenosCola(target.transform.position, transform.position);
         Vector3 dir = puntaMenosCola.normalized;
 
         //8 producto punto para saber si está detras o delante
@@ -81,39 +81,20 @@ public class VisionCone : MonoBehaviour
             if (indicadorVisualr) indicadorVisualr.SetActive(false);
             if (indicadorVisualv) indicadorVisualv.SetActive(true);
         }
+        
+        if (viendoAlObjetivo)
+        {
+            // Calcula la dirección hacia el objetivo
+            Vector3 direccion = (target.transform.position - transform.position).normalized;
+            direccion.y = 0; // opcional: evita que incline hacia arriba/abajo
 
-        //10 mayor que 0
-        //if (anguloTransformado <= 0)
-        //{
-        //    anguloTransformado = 0;
-        //}
+            // Crea la rotación deseada
+            Quaternion rotacionDeseada = Quaternion.LookRotation(direccion);
 
-        //11 comprobamos que la distancia
-        //float distanciaAlObjetivo;
-        //distanciaAlObjetivo = Vector3.Distance(target.transform.position, transform.position);
-
-        //12 verificamos que sea menor que el rango
-        //if (distanciaAlObjetivo <= senses.radioDeDeteccion;)
-        //{
-        //    objetivoDentro = true;
-        //}
-        //else
-        //{
-        //    objetivoDentro = false; 
-        //}
-
-        //13 si el objetivo está dentro del rango y está dentro del cono, prendemos el viendoAlObjetivo
-        //if (objetivoDentro && prodPunto > anguloTransformado)
-        //{
-        //    viendoAlObjetivo = true;
-        //    indicadorVisual.SetActive(true);
-        //    Debug.Log("HOLAestoy viendo al objetivo");
-        //}
-        //else
-        //{
-        //    viendoAlObjetivo = false;
-        //    indicadorVisual.SetActive(false);
-        //}
+            // Rota instantáneamente hacia el objetivo
+            transform.rotation = rotacionDeseada;
+        }
+        
     }
 
     void ResetRb()

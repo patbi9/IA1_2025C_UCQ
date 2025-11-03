@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 3
   tags:
   - Enemy
+  - Bullet
+  - Dart
+  - Bubble
   layers:
   - Default
   - TransparentFX
@@ -18,9 +21,9 @@ TagManager:
   - Wall
   - Floor
   - Waypoint
-  - 
-  - 
-  - 
+  - Obstacle
+  - Dart
+  - Bubble
   - 
   - 
   - 
