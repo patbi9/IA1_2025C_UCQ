@@ -130,7 +130,7 @@ GameObject:
   - component: {fileID: 68210441}
   - component: {fileID: 68210440}
   - component: {fileID: 68210439}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: verde
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -727,7 +727,7 @@ GameObject:
   - component: {fileID: 451430307}
   - component: {fileID: 451430306}
   - component: {fileID: 451430305}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: rojo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1973,7 +1973,7 @@ GameObject:
   - component: {fileID: 1801068066}
   - component: {fileID: 1801068065}
   - component: {fileID: 1801068070}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: evil
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -54,6 +54,7 @@
     <Compile Include="Assets\Scripts\Senses.cs" />
     <Compile Include="Assets\Scripts\SDLBehaviour.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
+    <Compile Include="Assets\Scripts\EscapistEnemy.cs" />
     <Compile Include="Assets\Scripts\Agent.cs" />
     <Compile Include="Assets\Scripts\PlayerNavMesh.cs" />
     <Compile Include="Assets\Scripts\bubble.cs" />
